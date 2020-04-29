@@ -1,10 +1,4 @@
-https://appetize.io/app/78yp5ymnc689cx69f2e52z2cyg?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
-publicKey: 78yp5ymnc689cx69f2e52z2cyg privateKey: private_rzjbnqbp80v06tv8brer5h3n8g
+https://appetize.io/app/8p64yqg71fdj9rpgqrb2chce6m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
+publicKey: 8p64yqg71fdj9rpgqrb2chce6m privateKey: private_aw1jtqpu9urb64auy8u2zdn21c
 
-
-Online web based iOS Simulators and Android Emulators. Stream native mobile apps in the browser with html5 and javascript.
-
-Create an ADB tunnel to this device
-Paste this command into shell, then run adb devices.
-
-ssh -fN -o StrictHostKeyChecking=no -p 2201 d0fztggumec4uzw3xgybtfyejw@lax-android-6.appetize.io -L6000:localhost:5613 && adb connect localhost:6000
+ssh -fN -o StrictHostKeyChecking=no -p 2201 0m2xw5yuxf251abengg7hpetq8@lax-android-5.appetize.io -L6000:localhost:5615 && adb connect localhost:6000
