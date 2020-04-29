@@ -16,6 +16,8 @@
     <string name="find_restaurants">Find Restaurants</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="google_maps_api">AIzaSyAbi1OgScUu3HVsqd_RrE4tmwm39H1bnE4</string>
+
+
     <string name="style_json">{
                 "featureType": "administrative",
                 "stylers": [ { "visibility": "off" } ]
